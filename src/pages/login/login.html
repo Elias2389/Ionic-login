@@ -1,0 +1,26 @@
+<ion-content class="bg" padding>
+
+  <ion-card class="login-card">
+    <img src="assets/img/weco-logo.png" alt="">
+    <ion-card-content>
+      <ion-item no-border>
+        <ion-input class="login-input" type="text"  placeholder="{{'INPUTS.USERNAME' | translate}}" [(ngModel)]="username"></ion-input>
+      </ion-item>
+      <ion-item>
+        <ion-input class="login-input" type="password"  placeholder="{{'INPUTS.PASSWORD' | translate}}"[(ngModel)]="password"></ion-input>
+      </ion-item>
+      <ion-item>
+        <button ion-button clear full color="dark" (click)="forgotPassword()" >{{'BUTTONS.FORGOT_PASSWORD' | translate}}</button>
+
+      </ion-item>
+
+      <ion-fab center class="fab-top">
+        <button ion-fab color="accent" (click)="login()">
+          <ion-icon ios="ios-arrow-forward" md="md-arrow-forward"></ion-icon>
+        </button>
+      </ion-fab>
+    </ion-card-content>
+  </ion-card>
+
+
+</ion-content>

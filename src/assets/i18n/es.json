@@ -1,0 +1,96 @@
+{
+  "BUTTONS": {
+    "CHANGE_PASSWORD": "Cambiar contraseña",
+    "CONFIRM": "Confirmar",
+    "DELETE":"Eliminar",
+    "DISASSOCIATE_SIGNATURE":"Desasociar firma",
+    "DONE": "Listo",
+    "LOGIN":"Ingresar",
+    "LOGOUT": "Cerra sesión",
+    "FORGOT_PASSWORD":"¿Olvidó su contraseña?",
+    "SELECT": "Seleccionar",
+    "VIEW":"Ver",
+    "ACCEPT":"Aceptar",
+    "CANCEL":"Cancelar",
+    "BACK":"Atras",
+    "CLOSE":"Cerrar",
+    "YES":"Si",
+    "NO":"No"
+  },
+  "TABS":{
+    "CONFIRM":"Confirmar",
+    "SIGN":"Firmar"
+  },
+  "TITLES":{
+    "COMPANY":"Compañia",
+    "PWD_RESET": "Cambiar contraseña",
+    "PWD_RECOVER": "Recuperar contraseña",
+    "PWD_STRENGTH": "Seguridad de la contraseña",
+    "USER_PROFILE":"Perfil"
+  },
+  "INPUTS":{
+    "CURRENT_PWD": "Contraseña actual",
+    "EMAIL": "Correo electrónico",
+    "DNI": "Documento de identidad",
+    "NEW_PWD": "Contraseña nueva",
+    "PWD_MATCH": "Confirmación",
+    "PASSWORD":"Contraseña",
+    "USERNAME":"Usuario",
+    "PHONE_NUMBER":"Número de telefono",
+    "NAME":"Nombre",
+    "LAST_NAME":"Apellido",
+    "GENDER":"Genero",
+    "VEHICLE":"Vehiculo",
+    "ADD_CARD":"Agregar tarjeta",
+    "CONFIRM":"Confirmar",
+    "BIRTHDATE":"Fecha de nacimiento",
+    "ADDRESS":"Dirección"
+  },
+  "LABELS": {
+    "BIRTHDATE": "Fecha de nacimiento",
+    "DATE_REGISTERED": "Miembro desde",
+    "EMAIL": "Correo electrónico",
+    "FULL_NAME": "Nombre completo"
+  },
+  "ALERTS":{
+    "SELECT_COUNTRY":"Selecionar país"
+  },
+  "COUNTRIES":{
+    "COLOMBIA":"Colombia",
+    "PERU_SOLES":"Perú soles",
+    "PERU_DOLLARS":"Perú dólares",
+    "VENEZUELA":"Venezuela"
+  },
+  "NOTIFICATIONS":{
+    "TITLE":"Notificación",
+    "REQUIRED_FIELD":"Este campo es requerido",
+    "USER_REQUIRED":"Usuario incorrecto",
+    "CONFIRM_DELETE_LOT":"Será eliminado el lote",
+    "INVALID_USER_OR_PASSWORD":"Usuario o contraseña invalido"
+  },
+  "RC":{
+    "0":"Su solicitud fue procesada",
+    "4":"Usted no se encuentra registrado como un conductor",
+    "523":"Solicitud procesada",
+    "524":"La nueva contraseña debe ser igual a la confirmación",
+    "9000":"Debe completar todos los campos",
+    "9002":"Se presentó un error inesperado",
+    "9001":"El nombre contiene caracteres incorretos"
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

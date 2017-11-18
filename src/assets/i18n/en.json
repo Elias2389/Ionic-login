@@ -1,0 +1,93 @@
+{
+  "BUTTONS": {
+    "CHANGE_PASSWORD": "Change password",
+    "CONFIRM": "Confirm",
+    "DELETE": "Delete",
+    "DISASSOCIATE_SIGNATURE": "Disassociate signature",
+    "DONE": "Done",
+    "LOGIN": "Login",
+    "LOGOUT": "Sign off",
+    "FORGOT_PASSWORD":"Forgot your password?",
+    "SELECT" : "Select",
+    "VIEW":"View",
+    "ACCEPT":"Accept",
+    "CANCEL":"Cancel",
+    "BACK":"Back",
+    "CLOSE":"Close",
+    "YES":"Yes",
+    "NO":"No"
+  },
+  "TABS":{
+    "CONFIRM":"Confirm"
+  },
+   "TITLES":{
+    "COMPANY":"Company",
+    "PWD_RESET": "Password reset",
+    "PWD_RECOVER": "Recover password",
+    "PWD_STRENGTH": "Password strength",
+    "USER_PROFILE": "Profile"
+  },
+  "INPUTS":{
+    "CURRENT_PWD": "Current password",
+    "DNI": "Document ID",
+    "EMAIL": "Email",
+    "NEW_PWD": "New password",
+    "PWD_MATCH": "Password confirmation",
+    "USERNAME":"Username",
+    "PASSWORD":"Password",
+    "PHONE_NUMBER":"Phone number",
+    "NAME":"Name",
+    "LAST_NAME":"Last name",
+    "GENDER":"Gender",
+    "VEHICLE":"Vehicle",
+    "ADD_CARD":"Add card",
+    "CONFIRM":"Confirm",
+    "BIRTHDATE":"Birthdate",
+    "ADDRESS":"Address"
+  },
+  "LABELS": {
+    "BIRTHDATE": "Birthdate",
+    "DATE_REGISTERED": "Member since",
+    "EMAIL": "Email",
+    "FULL_NAME": "Full name"
+  },
+  "ALERTS":{
+    "SELECT_COUNTRY":"Select country"
+  },
+  "COUNTRIES":{
+    "COLOMBIA":"Colombia",
+    "PERU_SOLES":"Perú soles",
+    "PERU_DOLLARS":"Perú USD",
+    "VENEZUELA":"Venezuela"
+  },
+  "NOTIFICATIONS":{
+    "TITLE":"Notification",
+    "REQUIRED_FIELD":"This field is required",
+    "USER_REQUIRED":"Wrong user",
+    "CONFIRM_DELETE_LOT":"The lot will be removed",
+    "INVALID_USER_OR_PASSWORD":"User or password invalid"
+  },
+  "RC":{
+    "0":"Your request was processed",
+    "-4":"You are not a driver",
+    "-523":"Your request was processed",
+    "-524":"Your password must be equal to confirmation",
+    "-9000":"You must fill the empty inputs",
+    "-9002":"An unexpected error occurred",
+    "-9001":"Name has incorrect characters"
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

@@ -1,0 +1,57 @@
+page-login {
+  .bg {
+    background: color($colors, primary);
+    background: -moz-linear-gradient(-45deg, color($colors, primary) 0%, color($colors, primary) 49%, rgba(242,242,242,1) 49%, rgba(242,242,242,1) 100%);
+    background: -webkit-gradient(left top, right bottom, color-stop(0%, color($colors, primary)), color-stop(49%, color($colors, primary)), color-stop(49%, rgba(242,242,242,1)), color-stop(100%, rgba(242,242,242,1)));
+    background: -webkit-linear-gradient(-45deg, color($colors, primary) 0%, color($colors, primary) 49%, rgba(242,242,242,1) 49%, rgba(242,242,242,1) 100%);
+    background: -o-linear-gradient(-45deg, color($colors, primary) 0%, color($colors, primary) 49%, rgba(242,242,242,1) 49%, rgba(242,242,242,1) 100%);
+    background: -ms-linear-gradient(-45deg, color($colors, primary) 0%, color($colors, primary) 49%, rgba(242,242,242,1) 49%, rgba(242,242,242,1) 100%);
+    background: linear-gradient(180deg, color($colors, primary) 0%, color($colors, primary) 49%, rgba(242,242,242,1) 49%, rgba(242,242,242,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#006ebd', endColorstr='#f2f2f2', GradientType=1 );
+  }
+
+  .login-card{
+    margin-top: 30%;
+
+    -webkit-box-shadow: -1px 11px 25px 0px rgba(0,0,0,0.18);
+    -moz-box-shadow: -1px 11px 25px 0px rgba(0,0,0,0.18);
+    box-shadow: -1px 11px 25px 0px rgba(0,0,0,0.18);
+  }
+
+  .login-card>img{
+    max-width: 35%;
+    height: auto;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+
+  .login-input{
+    border-bottom: solid  1px #a6a6a6;
+  }
+
+  .poweredby-logo{
+    max-width: 45%;
+    margin-bottom: 8%;
+  }
+
+  body.keyboard-is-open .scroll-content {
+    margin-bottom: 0 !important;
+  }
+
+  body.keyboard-is-open .fixed-content {
+    margin-bottom: 0 !important;
+  }
+
+  body.keyboard-is-open .applyFooter{
+    display: none;
+    bottom: 0;
+  }
+
+  .fab-top{
+    margin-top: -4%;
+  }
+
+}
+
