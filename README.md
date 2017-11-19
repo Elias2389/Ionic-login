@@ -12,9 +12,8 @@ Simple login development with Ionic Framework:
 > - The internationalization (i18n) library.
 > - Alert messages when user is invalid.
 
-#### Code:
-
 > **Requeriments:**
->  Nodejs.
->  Ionic Framework
+> - Nodejs.
+> - Ionic Framework
+> - ngx-translate 
 
